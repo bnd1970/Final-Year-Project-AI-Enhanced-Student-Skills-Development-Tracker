@@ -1,3 +1,4 @@
+#A program for simple testing
 from openai import OpenAI
 
 # Configuration
