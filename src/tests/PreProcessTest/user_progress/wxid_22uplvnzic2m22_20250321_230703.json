@@ -1,0 +1,17 @@
+{
+  "talker": "wxid_22uplvnzic2m22",
+  "timestamp": "2025-03-21T23:07:03.201396",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "团队成员在讨论中有一定的参与度，能够提出具体的例子并分享资源。然而，讨论中缺乏深入的问题分析和解决方案的具体性。团队成员表现出了一定的协调能力，但整体讨论较为零散，缺乏明确的方向和结构。问题解决方面，虽然提出了借鉴其他公司的想法，但缺乏详细的分析和验证过程。",
+    "scores": {
+      "participation": 3,
+      "initiative": 2,
+      "problem_solving": 2,
+      "coordination": 3,
+      "responsiveness": 4
+    },
+    "version": "0.2.0"
+  },
+  "schema_version": "0.2.0"
+}

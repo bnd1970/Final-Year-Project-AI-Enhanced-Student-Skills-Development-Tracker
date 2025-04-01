@@ -1,0 +1,17 @@
+{
+  "talker": "wxid_h4ls9unolgok22",
+  "timestamp": "2025-03-21T23:11:04.405449",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "团队成员之间的沟通较为简单，主要集中在设备查看的问题上。虽然有解决问题的迹象，但缺乏深入的讨论和详细的反馈。建议在未来的交流中增加更多的细节和后续行动确认。",
+    "scores": {
+      "participation": 3,
+      "initiative": 2,
+      "problem_solving": 3,
+      "coordination": 4,
+      "responsiveness": 4
+    },
+    "version": "0.2.0"
+  },
+  "schema_version": "0.2.0"
+}

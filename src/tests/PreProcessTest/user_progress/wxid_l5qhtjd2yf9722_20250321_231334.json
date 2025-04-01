@@ -1,0 +1,17 @@
+{
+  "talker": "wxid_l5qhtjd2yf9722",
+  "timestamp": "2025-03-21T23:13:34.019465",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "参与者的讨论频率较高，能够及时回应消息并确认会议安排，显示出良好的响应能力。然而，在主动性方面，除了供应链问题的提出外，缺乏更多的主动贡献和未被要求的建议。在解决问题方面，虽然指出了问题，但没有深入探讨解决方案或具体实施步骤。协调方面表现不错，团队成员之间能够有效沟通和调整计划。整体来看，参与度和响应性较高，但在主动性和问题解决深度上还有提升空间。",
+    "scores": {
+      "participation": 4,
+      "initiative": 3,
+      "problem_solving": 3,
+      "coordination": 4,
+      "responsiveness": 4
+    },
+    "version": "0.2.0"
+  },
+  "schema_version": "0.2.0"
+}

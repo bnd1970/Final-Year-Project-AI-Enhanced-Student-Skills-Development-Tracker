@@ -1,0 +1,14 @@
+1. Work reports
+- export weichat logs for test
+- More detailed program structure
+
+2. Ongoing works 
+- Pre-processe form
+- Use the scoring function of NLP to analyze the cooperation of the table
+
+3. Problems
+- NLP output formats other than JSON
+- Reasonability about 
+   use prompt only 
+   to distinguish between different members and evaluate whether it is feasible
+- code issues

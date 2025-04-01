@@ -1,0 +1,17 @@
+{
+  "talker": "wxid_qzrw1rjys8z612",
+  "timestamp": "2025-03-21T23:16:24.519033",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "团队成员在讨论中表现出一定的参与度，能够提出一些初步的想法和建议，但在解决问题时缺乏深入的分析和具体的解决方案。团队协调方面表现尚可，但主动性不足，部分成员未能主动贡献新想法。响应速度整体较快，但有时不够及时。",
+    "scores": {
+      "participation": 3,
+      "initiative": 2,
+      "problem_solving": 3,
+      "coordination": 4,
+      "responsiveness": 3
+    },
+    "version": "0.2.0"
+  },
+  "schema_version": "0.2.0"
+}

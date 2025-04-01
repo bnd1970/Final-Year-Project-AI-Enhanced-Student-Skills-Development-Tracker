@@ -1,0 +1,17 @@
+{
+  "talker": "wxid_2ow94lpjiuzj22",
+  "timestamp": "2025-03-21T23:09:04.291792",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "在聊天记录中，参与者表现出基本的参与度和响应能力，但主动性较低，问题解决能力和协调性较为有限。建议加强主动贡献和深入讨论以提升团队协作效果。",
+    "scores": {
+      "participation": 3,
+      "initiative": 2,
+      "problem_solving": 3,
+      "coordination": 3,
+      "responsiveness": 4
+    },
+    "version": "0.2.0"
+  },
+  "schema_version": "0.2.0"
+}
