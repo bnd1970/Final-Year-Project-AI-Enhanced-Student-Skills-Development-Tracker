@@ -3,9 +3,39 @@ import os
 import sys
 import subprocess
 from pathlib import Path
+import pandas as pd
+from auth import register_user, login_user
 
 INPUT_DIR = Path("input_form")
 OUTPUT_DIR = Path("output_form")
+USER_DIR = Path("user_inform")
+
+def init_directories():
+    INPUT_DIR.mkdir(exist_ok=True)
+    OUTPUT_DIR.mkdir(exist_ok=True)
+    USER_DIR.mkdir(exist_ok=True)
+
+def auth_module():
+    while True:
+        print("\n=== User Authentication ===")
+        print("1. Login")
+        print("2. Register")
+        print("3. Back")
+        choice = input("Enter choice (1-3): ").strip()
+        
+        if choice == "1":
+            user = login_user()
+            if user:
+                return user
+        elif choice == "2":
+            if register_user():
+                print("Registration successful!")
+            else:
+                print("Registration failed. Please try again.")
+        elif choice == "3":
+            return None
+        else:
+            print("Invalid selection")
 
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
@@ -66,23 +96,46 @@ def analysis_module():
     input("\nAnalysis complete, press Enter to return to main menu...")
 
 def main_menu():
+    init_directories()
     while True:
         clear_screen()
         print("=== Team Collaboration Analysis System ===")
-        print("1. Preprocess chat files")
-        print("2. Analyze collaboration capability")
-        print("3. Exit system")
-        
-        choice = input("Please select an option: ")
-        if choice == "1":
-            preprocess_module()
-        elif choice == "2":
-            analysis_module()
-        elif choice == "3":
-            print("Thank you for using, goodbye!")
-            break
-        else:
-            input("Invalid selection, press Enter to continue...")
+        user_info = auth_module()
+        if not user_info:
+            continue
+            
+        while True:
+            clear_screen()
+            print(f"\nCurrent user: {user_info['username']} ({user_info['role']})")
+            print("=== Main Menu ===")
+            print("1. Preprocess chat files")
+            print("2. Analyze collaboration")
+            if user_info['role'] == "leader":
+                print("3. Manage groups")
+            print("4. Logout")
+            
+            choice = input("Enter choice (1-4): ").strip()
+            
+            if choice == "1":
+                preprocess_module()
+            elif choice == "2":
+                analysis_module()
+            elif choice == "3" and user_info['role'] == "leader":
+                manage_group_module(user_info)
+            elif choice == "4":
+                break
+            else:
+                input("Invalid choice. Press Enter to continue...")
+
+def manage_group_module(user_info):
+    clear_screen()
+    print("=== Group Management ===")
+    groups = pd.read_excel(GROUPS_FILE, engine='openpyxl')
+    print(f"Current group: {user_info['group']}")
+    print("\nMember List:")
+    users = pd.read_excel(USERS_FILE, engine='openpyxl')
+    print(users[users['group'] == user_info['group']])
+    input("\nPress Enter to return...")
 
 if __name__ == "__main__":
     OUTPUT_DIR.mkdir(exist_ok=True)
