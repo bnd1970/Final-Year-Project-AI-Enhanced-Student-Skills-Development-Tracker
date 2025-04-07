@@ -1,0 +1,21 @@
+{
+  "talker": "wxid_h4ls9unolgok22",
+  "timestamp": "2025-04-05T07:14:23.105110",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户A和用户B在讨论中积极参与，提供了有用的解决方案，并通过多次互动展示了良好的团队协作。用户B表现出较高的主动性和组织能力，而用户A则展现了细致的问题检查能力。整体来看，沟通虽然及时，但在某些情况下缺乏详细确认。",
+    "scores": {
+      "participation": 4,
+      "initiative": 5,
+      "problem_solving": 4,
+      "coordination": 5,
+      "responsiveness": 4
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.5.0"
+  },
+  "schema_version": "0.5.0"
+}

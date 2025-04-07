@@ -1,0 +1,21 @@
+{
+  "talker": "wxid_l5qhtjd2yf9722",
+  "timestamp": "2025-04-07T05:59:31.712393",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team showed moderate participation in the discussion, with occasional constructive contributions. They demonstrated some initiative by proposing meeting solutions and sharing relevant content. Problem-solving was evident through addressing challenges and offering solutions. Coordination efforts were observed in task organization, though responsiveness could be improved.",
+    "scores": {
+      "participation": 3,
+      "initiative": 4,
+      "problem_solving": 4,
+      "coordination": 4,
+      "responsiveness": 3
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.5.0"
+  },
+  "schema_version": "0.5.0"
+}
