@@ -29,7 +29,6 @@ from datetime import datetime
 INPUT_DIR = Path("input_form")
 OUTPUT_DIR = Path("output_form")
 USER_DIR = Path("user_inform")
-font_path = "fonts/NotoSansSC-Regular.ttf"
 
 def init_directories():
     INPUT_DIR.mkdir(exist_ok=True)
@@ -356,6 +355,10 @@ def leader_group_operations(user_info):
 
 def generate_radar_chart(scores: dict) -> str:
     """生成雷达图并返回图片路径"""
+    # ---------- 强制指定中文字体 ----------
+    plt.rcParams['font.sans-serif'] = ['Noto Sans SC']
+    plt.rcParams['axes.unicode_minus'] = False
+
     # 数据准备
     criteria = list(COLLAB_CRITERIA.values())
     values = [scores.get(k, 0) for k in COLLAB_CRITERIA.keys()]
@@ -382,6 +385,9 @@ def generate_radar_chart(scores: dict) -> str:
 
 def generate_history_line_chart(timeline_data):
     """生成历史得分折线图"""
+    plt.rcParams['font.sans-serif'] = ['NotoSansSC']  # 指定默认字体
+    plt.rcParams['axes.unicode_minus'] = False  # 解决负号显示问题
+
     plt.figure(figsize=(8, 4))
     
     # 转换时间戳为日期对象
@@ -655,21 +661,20 @@ def generate_personal_summary(user_info):
     input("\n按回车返回主菜单...")
 
 def generate_pdf_report(summary, user_info):
+    # 初始化
+    pdf = FPDF()
 
-    font_path = "fonts/NotoSansSC-Regular.ttf"
+    font_path = Path(__file__).parent / "fonts/NotoSansSC-Regular.ttf"
     if not Path(font_path).exists():
         raise FileNotFoundError(f"中文字体文件 {font_path} 未找到")
-    
-    # 生成折线图
-    if len(summary['timeline']) >= 1:
-        try:
-            line_chart_path = generate_history_line_chart(summary['timeline'])
-            pdf.add_page()
-            pdf.set_font("NotoSansSC", "", 16)
-            pdf.cell(200, 10, text="历史能力得分趋势", new_x=XPos.LEFT, new_y=YPos.NEXT, align='C')
-            pdf.image(line_chart_path, x=25, w=160)
-        except Exception as e:
-            print(f"折线图生成失败: {str(e)}")
+
+    font_path = Path(__file__).parent / "fonts/NotoSansSC-Regular.ttf"
+    if not font_path.exists():
+        raise FileNotFoundError(f"字体文件未找到: {font_path}")
+
+    # 注册字体（必须在add_page之前）
+    pdf.add_font("NotoSansSC", "", font_path)
+    pdf.set_font("NotoSansSC", "", 12)  # 必须设置默认字体
 
     # 生成雷达图
     try:
@@ -680,10 +685,19 @@ def generate_pdf_report(summary, user_info):
 
     if not Path(font_path).exists():
         raise FileNotFoundError(f"字体文件 {font_path} 未找到")
+    
+    # 生成折线图
+    try:
+        if len(summary['timeline']) >= 1:
+            line_chart_path = generate_history_line_chart(summary['timeline'])
+            pdf.add_page()
+            pdf.set_font("NotoSansSC", "", 16)
+            pdf.cell(200, 10, text="历史能力得分趋势", new_x=XPos.LEFT, new_y=YPos.NEXT, align='C')
+            pdf.image(line_chart_path, x=25, w=160)
+    except Exception as e:
+        print(f"折线图生成失败: {str(e)}")
 
     # 创建PDF
-    pdf = FPDF()
-    pdf.add_page()
 
     pdf.add_font("NotoSansSC", "", font_path)
     pdf.set_font("NotoSansSC", "", 12)  # 必须放在内容生成前
