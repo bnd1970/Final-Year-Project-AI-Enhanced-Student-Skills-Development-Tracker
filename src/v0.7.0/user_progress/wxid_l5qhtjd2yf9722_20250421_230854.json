@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_l5qhtjd2yf9722",
+  "timestamp": "2025-04-21T23:08:54.779256",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户A频繁参与讨论，提供了多个回复，并主动提出使用腾讯会议的建议。用户B也参与了一些互动，但内容较为简短。",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 5.0,
+      "problem_solving": 3.0,
+      "coordination": 3.0,
+      "responsiveness": 3.0
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_l5qhtjd2yf9722"
+}

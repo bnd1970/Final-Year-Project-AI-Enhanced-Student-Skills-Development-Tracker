@@ -1,0 +1,11 @@
+{
+  "talker": "wxid_22uplvnzic2m22",
+  "timestamp": "2025-04-22T23:39:13.993562",
+  "messages_count": 0,
+  "analysis": {
+    "error": "NameError: name 'SYSTEM_PROPT' is not defined"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_22uplvnzic2m22"
+}

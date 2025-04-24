@@ -1,0 +1,20 @@
+{
+  "talker": "wxid_2ow94lpjiuzj22",
+  "timestamp": "2025-04-07T06:09:54.675660",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户在讨论中多次提出建设性建议，如寻找供应链案例、提供替代方案和调整文档格式，显示出一定的主动性和协调能力。然而，有些回复较为简短或情绪化，影响了参与度和问题解决能力。",
+    "scores": {
+      "participation": 4,
+      "initiative": 4,
+      "problem_solving": 3,
+      "coordination": 4,
+      "responsiveness": 3
+    },
+    "mentions": [
+      "用户A"
+    ],
+    "version": "0.5.0"
+  },
+  "schema_version": "0.5.0"
+}

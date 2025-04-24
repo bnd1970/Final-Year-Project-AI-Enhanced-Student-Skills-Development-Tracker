@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_22uplvnzic2m22",
+  "timestamp": "2025-04-14T20:39:04.730968",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team demonstrated active participation in the discussion, with members sharing their experiences and suggestions. They took initiative by proposing examples and organizing a meeting. Problem-solving abilities were evident as they addressed potential issues. Coordination was effective through arranging meetings. Responsiveness was timely.",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 5.0,
+      "problem_solving": 4.0,
+      "coordination": 5.0,
+      "responsiveness": 4.0
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.5.0"
+  },
+  "schema_version": "0.5.0",
+  "group": "cleaned",
+  "original_id": "wxid_22uplvnzic2m22"
+}

@@ -1,0 +1,22 @@
+{
+  "talker": "wxid_2ow94lpjiuzj22",
+  "timestamp": "2025-04-21T23:19:11.310889",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户在聊天记录中表现出一定的参与度和主动性，但缺乏深入的分析和详细的建设性贡献。部分信息内容较为无关，影响了整体的讨论质量。",
+    "scores": {
+      "participation": 2.0,
+      "initiative": 2.0,
+      "problem_solving": 2.5,
+      "coordination": 3.0,
+      "responsiveness": 4.0
+    },
+    "mentions": [
+      "userA"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_2ow94lpjiuzj22"
+}

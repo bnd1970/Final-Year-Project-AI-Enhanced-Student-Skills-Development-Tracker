@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_h4ls9unolgok22",
+  "timestamp": "2025-04-22T15:15:25.277987",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team demonstrated basic participation in the conversation, with a focus on problem identification and resolution. The initiative was limited as no new ideas were proposed. Problem-solving ability was evident through practical solutions. Coordination efforts were minimal, and responsiveness was moderate.",
+    "scores": {
+      "participation": 3.0,
+      "initiative": 2.0,
+      "problem_solving": 4.0,
+      "coordination": 3.0,
+      "responsiveness": 3.0
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_h4ls9unolgok22"
+}

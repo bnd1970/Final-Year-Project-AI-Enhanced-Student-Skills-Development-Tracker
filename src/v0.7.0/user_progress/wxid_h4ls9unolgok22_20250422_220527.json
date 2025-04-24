@@ -1,0 +1,22 @@
+{
+  "talker": "wxid_h4ls9unolgok22",
+  "timestamp": "2025-04-22T22:05:27.259637",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户多次参与讨论,提供了具体的问题描述和解决方案,但部分信息表述不够清晰。",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 3.0,
+      "problem_solving": 5.0,
+      "coordination": 4.0,
+      "responsiveness": 3.0
+    },
+    "mentions": [
+      "userA"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_h4ls9unolgok22"
+}

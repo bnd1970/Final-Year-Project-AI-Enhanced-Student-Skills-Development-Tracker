@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_l5qhtjd2yf9722",
+  "timestamp": "2025-04-22T22:06:11.173837",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The chat history shows moderate participation with some constructive contributions, such as discussing meeting arrangements and proposing solutions. However, the depth of problem-solving and coordination is limited.",
+    "scores": {
+      "participation": 3.0,
+      "initiative": 4.0,
+      "problem_solving": 3.0,
+      "coordination": 3.0,
+      "responsiveness": 2.0
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_l5qhtjd2yf9722"
+}

@@ -1,0 +1,19 @@
+{
+  "talker": "wxid_qzrw1rjys8z612",
+  "timestamp": "2025-04-19T21:14:46.191674",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team effectively discussed potential challenges and proposed solutions for Huawei's supply chain and innovation pressures. They showed good coordination in organizing meetings and problem-solving.",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 4.0,
+      "problem_solving": 4.0,
+      "coordination": 4.0,
+      "responsiveness": 4.0
+    },
+    "team_name": "Group Discussion on Huawei Challenges"
+  },
+  "schema_version": "0.5.0",
+  "group": "cleaned",
+  "original_id": "wxid_qzrw1rjys8z612"
+}

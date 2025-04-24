@@ -1,0 +1,22 @@
+{
+  "talker": "wxid_qzrw1rjys8z612",
+  "timestamp": "2025-04-22T19:55:50.004208",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The user actively participated in discussions, proposed meeting times and locations, and contributed to problem identification. They demonstrated coordination skills by organizing meetings and suggesting topics. Their problem-solving ability was evident through detailed analysis of supply chain risks.",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 4.0,
+      "problem_solving": 3.0,
+      "coordination": 4.0,
+      "responsiveness": 4.0
+    },
+    "mentions": [
+      "userA"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_qzrw1rjys8z612"
+}

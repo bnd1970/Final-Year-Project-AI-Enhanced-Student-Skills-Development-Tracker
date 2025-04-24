@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_2ow94lpjiuzj22",
+  "timestamp": "2025-04-22T22:18:28.185281",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户在此次讨论中表现出一定的参与热情,能够提供一些补充建议,如提及具体企业名称（如顺丰、苹果、华为）,但缺乏深入的问题解决和主动性的创新思维。虽然有时能注意到问题,但协调能力和问题解决能力还有待提升。",
+    "scores": {
+      "participation": 3.0,
+      "initiative": 2.0,
+      "problem_solving": 2.0,
+      "coordination": 3.0,
+      "responsiveness": 4.0
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_2ow94lpjiuzj22"
+}

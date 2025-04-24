@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_2ow94lpjiuzj22",
+  "timestamp": "2025-04-21T23:07:31.247409",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户A表现活跃，提供了多些建议和讨论。用户B、C、D、E、F、G、H均有贡献，显示出良好的团队参与度。用户D在消息4中表现得较为疏忽，但后续积极参与讨论。",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 3.0,
+      "problem_solving": 4.0,
+      "coordination": 4.0,
+      "responsiveness": 5.0
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_2ow94lpjiuzj22"
+}

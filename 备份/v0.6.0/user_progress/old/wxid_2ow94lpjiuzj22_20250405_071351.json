@@ -1,0 +1,21 @@
+{
+  "talker": "wxid_2ow94lpjiuzj22",
+  "timestamp": "2025-04-05T07:13:51.362307",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户A和用户B讨论了供应链分析案例，并提出了具体的建议，如寻找已被分析过的企业，比较省事，还提到了顺丰/苹果或华为等公司。他们还讨论了页面编号和字体大小的问题。",
+    "scores": {
+      "participation": 4,
+      "initiative": 5,
+      "problem_solving": 4,
+      "coordination": 4,
+      "responsiveness": 4
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.5.0"
+  },
+  "schema_version": "0.5.0"
+}

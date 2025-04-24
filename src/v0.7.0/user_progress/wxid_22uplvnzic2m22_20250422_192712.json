@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_22uplvnzic2m22",
+  "timestamp": "2025-04-22T19:27:12.797323",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "ç¨æ·Aåç¨æ·Bå¨è®¨è®ºä¸­è¡¨ç°æ´»è·ï¼æåºäºå¤ä¸ªå»ºè®¾æ§çå»ºè®®ï¼å¹¶åäº«äºç¸å³èµæãç¨æ·Bç¹å«ä¸»å¨å°æåºåé´åä¸ºçåæ³ï¼è¿æ¾ç¤ºåºä¸å®çä¸»å¨æ§ãç¶èï¼æ´ä½åè°è½ååé®é¢è§£å³è½åè¿ææåç©ºé´ã",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 3.0,
+      "problem_solving": 4.0,
+      "coordination": 3.0,
+      "responsiveness": 4.0
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_22uplvnzic2m22"
+}

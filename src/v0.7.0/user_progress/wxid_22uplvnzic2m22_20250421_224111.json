@@ -1,0 +1,22 @@
+{
+  "talker": "wxid_22uplvnzic2m22",
+  "timestamp": "2025-04-21T22:41:11.865788",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户A积极参与讨论，多次提出建设性建议，并提供了分析和解决方案。用户A有组织会议的行为，显示出良好的协调能力。虽然用户A的回复简短，但整体贡献值得肯定。",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 4.0,
+      "problem_solving": 5.0,
+      "coordination": 4.0,
+      "responsiveness": 3.0
+    },
+    "mentions": [
+      "userA"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_22uplvnzic2m22"
+}

@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_22uplvnzic2m22",
+  "timestamp": "2025-04-19T21:12:12.867435",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team demonstrated active participation in discussions, with members contributing ideas and seeking references. They showed initiative by proposing examples like Huawei and suggesting borrowing from others. Problem-solving abilities were evident as they analyzed issues and proposed solutions. Coordination was good as they organized meetings and shared resources. Responsiveness was timely with continuous engagement.",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 4.0,
+      "problem_solving": 3.0,
+      "coordination": 4.0,
+      "responsiveness": 4.0
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.5.0"
+  },
+  "schema_version": "0.5.0",
+  "group": "cleaned",
+  "original_id": "wxid_22uplvnzic2m22"
+}

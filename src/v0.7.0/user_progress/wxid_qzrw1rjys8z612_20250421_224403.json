@@ -1,0 +1,18 @@
+{
+  "talker": "wxid_qzrw1rjys8z612",
+  "timestamp": "2025-04-21T22:44:03.972223",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team demonstrated active participation in discussions, with members contributing constructively to problem identification and solution exploration. They showed initiative by proposing meeting times and topics, and displayed good coordination skills by organizing meetings and adjusting schedules. Problem-solving abilities were evident through the exploration of potential solutions and the identification of key issues.",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 3.0,
+      "problem_solving": 4.0,
+      "coordination": 5.0,
+      "responsiveness": 4.0
+    }
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_qzrw1rjys8z612"
+}

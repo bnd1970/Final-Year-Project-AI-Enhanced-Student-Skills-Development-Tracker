@@ -1,0 +1,20 @@
+{
+  "talker": "wxid_qzrw1rjys8z612",
+  "timestamp": "2025-04-22T14:23:11.980660",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team demonstrates active participation in discussions, with multiple members contributing ideas and suggestions. They effectively coordinate meeting times and topics, showing good initiative in problem identification and proposed solutions. Problem-solving abilities are evident as they analyze potential risks and suggest mitigation strategies. Coordination is strong as they organize meetings and divide tasks. Responsiveness varies; some issues receive quick attention while others take longer to resolve.",
+    "scores": {
+      "participation": 0.0,
+      "initiative": 0.0,
+      "problem_solving": 0.0,
+      "coordination": 0.0,
+      "responsiveness": 0.0
+    },
+    "mentions": [],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_qzrw1rjys8z612"
+}

@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_2ow94lpjiuzj22",
+  "timestamp": "2025-04-21T22:41:50.984599",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户A和用户B积极参与讨论，提出了一些建设性的建议。用户A在问题解决方面表现出色，但协调能力有待提高。用户B的响应时效受到影响，由于发烧未能及时回复。",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 5.0,
+      "problem_solving": 3.0,
+      "coordination": 3.0,
+      "responsiveness": 2.0
+    },
+    "mentions": [
+      "用户A",
+      "用户B"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_2ow94lpjiuzj22"
+}

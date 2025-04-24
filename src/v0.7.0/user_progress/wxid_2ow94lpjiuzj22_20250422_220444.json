@@ -1,0 +1,22 @@
+{
+  "talker": "wxid_2ow94lpjiuzj22",
+  "timestamp": "2025-04-22T22:04:44.327202",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户在讨论中表现出一定的主动性和解决问题的能力,但参与度较低,协调行为不明显。用户能够及时回应问题并提供简单建议。",
+    "scores": {
+      "participation": 2.0,
+      "initiative": 3.0,
+      "problem_solving": 2.0,
+      "coordination": 1.0,
+      "responsiveness": 4.0
+    },
+    "mentions": [
+      "userA"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_2ow94lpjiuzj22"
+}

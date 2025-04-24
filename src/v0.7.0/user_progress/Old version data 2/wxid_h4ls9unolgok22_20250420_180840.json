@@ -1,0 +1,22 @@
+{
+  "talker": "wxid_h4ls9unolgok22",
+  "timestamp": "2025-04-20T18:08:40.487593",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户A在讨论中主动提出安排时间，并提供解决方案，显示出良好的协调能力和问题解决能力。虽然没有频繁参与，但确实有建设性的贡献。",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 5.0,
+      "problem_solving": 4.5,
+      "coordination": 4.0,
+      "responsiveness": 3.5
+    },
+    "mentions": [
+      "userA"
+    ],
+    "version": "0.5.0"
+  },
+  "schema_version": "0.5.0",
+  "group": "cleaned",
+  "original_id": "wxid_h4ls9unolgok22"
+}

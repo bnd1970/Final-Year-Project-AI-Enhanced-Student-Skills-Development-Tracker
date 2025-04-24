@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_l5qhtjd2yf9722",
+  "timestamp": "2025-04-22T19:30:14.214156",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team demonstrates moderate participation and responsiveness, with occasional constructive contributions. Coordination efforts are evident in meeting arrangements, but problem-solving depth is limited. Initiative is shown through sharing solutions.",
+    "scores": {
+      "participation": 3.0,
+      "initiative": 2.5,
+      "problem_solving": 2.5,
+      "coordination": 3.5,
+      "responsiveness": 3.0
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_l5qhtjd2yf9722"
+}

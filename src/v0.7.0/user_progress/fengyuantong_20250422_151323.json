@@ -1,0 +1,23 @@
+{
+  "talker": "fengyuantong",
+  "timestamp": "2025-04-22T15:13:23.623334",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team demonstrated active participation in structuring the paper, offering suggestions for improvement, and organizing discussions. They showed initiative by proposing changes and contributing ideas. Their problem-solving ability was evident through the identification of issues and proposed solutions. Coordination efforts were observed with attempts to set meeting times and structure the document. Responsiveness was generally good with timely contributions.",
+    "scores": {
+      "participation": 2.0,
+      "initiative": 0.0,
+      "problem_solving": 4.0,
+      "coordination": 3.0,
+      "responsiveness": 2.5
+    },
+    "mentions": [
+      "A",
+      "B"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "fengyuantong"
+}

@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_l5qhtjd2yf9722",
+  "timestamp": "2025-04-22T02:23:03.761793",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team demonstrates moderate participation and coordination. They show some initiative in proposing solutions but lack detailed analysis. Problem-solving is evident in practical suggestions.",
+    "scores": {
+      "participation": 3.0,
+      "initiative": 2.0,
+      "problem_solving": 4.0,
+      "coordination": 3.0,
+      "responsiveness": 4.0
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_l5qhtjd2yf9722"
+}

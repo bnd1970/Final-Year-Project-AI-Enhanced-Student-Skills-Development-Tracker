@@ -1,0 +1,37 @@
+{
+  "talker": "wxid_22uplvnzic2m22",
+  "timestamp": "2025-04-22T22:03:57.958637",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户A通过提出问题展示了参与意愿,但后续发言较少。用户B提供了具体案例分析,表现出主动性。用户C提出了借鉴往年案例的建议,体现了协调能力。用户D参与讨论并提出看法,显示出一定的参与度。用户E创新性地将问题与华为联系起来,展现了主动性和创造力。用户F关注进度,表现出责任感。用户G提到其他组开会情况,体现了团队意识。用户H催促开始讨论,显示出积极态度。用户I主动组织会议,展示了领导力。用户J协调时间安排,表现出高责任感。用户K提供详细分析和解决方案,展现了深入思考和问题解决能力。用户L的发言较为简短,影响不大。用户M主动提出解决方案,体现了主动性。用户N指出了问题需要多方面解决,显示出复杂问题处理能力。用户O提供具体建议,表现出细致程度。用户P表达感谢,有助于团队氛围。",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 4.5,
+      "problem_solving": 4.0,
+      "coordination": 3.5,
+      "responsiveness": 4.0
+    },
+    "mentions": [
+      "userA",
+      "userB",
+      "userC",
+      "userD",
+      "userE",
+      "userF",
+      "userG",
+      "userH",
+      "userI",
+      "userJ",
+      "userK",
+      "userL",
+      "userM",
+      "userN",
+      "userO",
+      "userP"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_22uplvnzic2m22"
+}

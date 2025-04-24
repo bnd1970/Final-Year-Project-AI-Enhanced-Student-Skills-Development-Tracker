@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_qzrw1rjys8z612",
+  "timestamp": "2025-04-22T22:24:10.225371",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team demonstrated active participation in planning and discussion, with a tendency towards repetitive suggestions. Coordination efforts were evident through structured meeting arrangements and task distribution. Problem-solving abilities were showcased by proposing multiple solutions and addressing potential challenges.",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 3.0,
+      "problem_solving": 4.0,
+      "coordination": 5.0,
+      "responsiveness": 4.0
+    },
+    "mentions": [
+      "userA",
+      "其他用户"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_qzrw1rjys8z612"
+}

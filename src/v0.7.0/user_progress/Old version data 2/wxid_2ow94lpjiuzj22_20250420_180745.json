@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_2ow94lpjiuzj22",
+  "timestamp": "2025-04-20T18:07:45.700189",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户A在讨论中多次主动提出建议和优化方案，如寻找供应链案例、比较省事的方法以及文档格式调整，这显示出较高的主动性和问题解决能力。用户B则更多地进行回应，参与度相对较低。",
+    "scores": {
+      "participation": 3.0,
+      "initiative": 4.0,
+      "problem_solving": 4.0,
+      "coordination": 2.0,
+      "responsiveness": 4.0
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.5.0"
+  },
+  "schema_version": "0.5.0",
+  "group": "cleaned",
+  "original_id": "wxid_2ow94lpjiuzj22"
+}

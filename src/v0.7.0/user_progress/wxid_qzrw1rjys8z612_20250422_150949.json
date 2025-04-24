@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_qzrw1rjys8z612",
+  "timestamp": "2025-04-22T15:09:49.166808",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team demonstrated active participation in organizing meetings and discussions. They showed initiative by proposing problem topics and suggesting meeting times. Problem-solving abilities were evident through constructive contributions and proposed solutions. Coordination efforts were observed with successful organization of online meetings and adjusting meeting times. Responsiveness was moderate, with timely responses to organize discussions.",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 3.5,
+      "problem_solving": 4.0,
+      "coordination": 4.0,
+      "responsiveness": 3.5
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_qzrw1rjys8z612"
+}

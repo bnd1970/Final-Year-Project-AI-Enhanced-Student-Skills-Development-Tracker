@@ -1,0 +1,22 @@
+{
+  "talker": "wxid_2ow94lpjiuzj22",
+  "timestamp": "2025-04-19T21:13:06.175392",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户A在这段聊天中表现出了较高的主动性和建设性的反馈，例如提供具体的供应链企业建议、格式修改建议等。同时，有些消息内容较为随意，如笑声和情绪化发言，这可能影响了整体参与度。",
+    "scores": {
+      "participation": 3.0,
+      "initiative": 5.0,
+      "problem_solving": 3.0,
+      "coordination": 2.0,
+      "responsiveness": 4.0
+    },
+    "mentions": [
+      "userA"
+    ],
+    "version": "0.5.0"
+  },
+  "schema_version": "0.5.0",
+  "group": "cleaned",
+  "original_id": "wxid_2ow94lpjiuzj22"
+}

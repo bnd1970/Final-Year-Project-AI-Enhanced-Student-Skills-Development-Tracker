@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_l5qhtjd2yf9722",
+  "timestamp": "2025-04-22T14:22:34.710494",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team demonstrates active participation with frequent contributions, though some interactions are brief. The initiative is evident through unsolicited contributions like suggesting meeting tools and proposing solutions. Problem-solving ability is shown by offering specific solutions to challenges. Coordination is maintained through organized discussions and clear suggestions. Overall responsiveness is timely, though occasionally brief.",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 5.0,
+      "problem_solving": 4.0,
+      "coordination": 5.0,
+      "responsiveness": 4.0
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_l5qhtjd2yf9722"
+}

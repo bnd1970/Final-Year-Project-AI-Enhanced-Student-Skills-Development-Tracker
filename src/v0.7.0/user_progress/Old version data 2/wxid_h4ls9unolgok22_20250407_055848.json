@@ -1,0 +1,20 @@
+{
+  "talker": "wxid_h4ls9unolgok22",
+  "timestamp": "2025-04-07T05:58:48.537170",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The user occasionally shows low participation by not checking the group timely. They demonstrated some initiative by suggesting solutions but could improve with more detailed problem-solving steps. Coordination efforts are minimal as they didn't actively facilitate discussions. Responsiveness is moderate with occasional delays in joining the conversation.",
+    "scores": {
+      "participation": 3,
+      "initiative": 4,
+      "problem_solving": 4,
+      "coordination": 2,
+      "responsiveness": 3
+    },
+    "mentions": [
+      "userA"
+    ],
+    "version": "0.5.0"
+  },
+  "schema_version": "0.5.0"
+}

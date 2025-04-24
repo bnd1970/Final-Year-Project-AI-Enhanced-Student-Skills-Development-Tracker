@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_l5qhtjd2yf9722",
+  "timestamp": "2025-04-19T21:14:12.770838",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team demonstrates active participation with frequent responses, though some interactions are brief. They show initiative by proposing meeting times and solutions. Problem-solving is evident through addressing challenges and offering strategies. Coordination efforts are seen in organizing tasks and discussions. Responsiveness is timely, contributing to effective communication.",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 5.0,
+      "problem_solving": 4.0,
+      "coordination": 5.0,
+      "responsiveness": 4.0
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.5.0"
+  },
+  "schema_version": "0.5.0",
+  "group": "cleaned",
+  "original_id": "wxid_l5qhtjd2yf9722"
+}

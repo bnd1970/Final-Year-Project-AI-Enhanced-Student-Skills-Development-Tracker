@@ -1,0 +1,22 @@
+{
+  "talker": "wxid_22uplvnzic2m22",
+  "timestamp": "2025-04-22T18:29:46.553211",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The user actively participated in the discussion by proposing ideas and organizing meetings. They demonstrated initiative by sharing resources and suggesting discussions. Their problem-solving ability was evident through analyzing issues and suggesting solutions. Coordination skills were shown by trying to arrange a meeting. Responsiveness was good as they engaged timely.",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 4.0,
+      "problem_solving": 3.0,
+      "coordination": 4.0,
+      "responsiveness": 4.0
+    },
+    "mentions": [
+      "userA"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_22uplvnzic2m22"
+}

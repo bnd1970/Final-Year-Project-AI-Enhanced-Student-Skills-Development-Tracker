@@ -1,0 +1,20 @@
+{
+  "talker": "fengyuantong",
+  "timestamp": "2025-04-22T14:32:11.332707",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team demonstrated active participation in discussions, showing initiative by proposing structured approaches to their analysis. Their problem-solving skills were evident through detailed issue identification and constructive suggestions. Coordination efforts were observed with suggestions for meeting times, though there could be more active role play. Responsiveness was timely, contributing positively to the discussion flow.",
+    "scores": {
+      "participation": 0.0,
+      "initiative": 0.0,
+      "problem_solving": 0.0,
+      "coordination": 0.0,
+      "responsiveness": 0.0
+    },
+    "mentions": [],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "fengyuantong"
+}

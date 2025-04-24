@@ -1,0 +1,20 @@
+{
+  "talker": "wxid_qzrw1rjys8z612",
+  "timestamp": "2025-04-22T22:08:38.743639",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team demonstrates effective coordination and participation in scheduling meetings and discussing issues. They show initiative by proposing meeting times and topics. Problem-solving is evident through the exploration of various challenges and solutions. Responsiveness is generally good, though sometimes delayed.",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 5.0,
+      "problem_solving": 4.0,
+      "coordination": 5.0,
+      "responsiveness": 4.0
+    },
+    "mentions": [],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_qzrw1rjys8z612"
+}

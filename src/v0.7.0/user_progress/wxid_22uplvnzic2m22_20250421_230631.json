@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_22uplvnzic2m22",
+  "timestamp": "2025-04-21T23:06:31.868380",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team demonstrates active participation in discussions, with constructive contributions such as proposing meeting times and sharing analysis. They show initiative by suggesting project selection methods and coordinating group activities. Problem-solving efforts are evident through analyzing case studies and identifying project criteria. Coordination is shown through organizing meetings and checking availability. Responsiveness is maintained through timely feedback and suggestions.",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 4.0,
+      "problem_solving": 3.0,
+      "coordination": 4.0,
+      "responsiveness": 4.0
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_22uplvnzic2m22"
+}

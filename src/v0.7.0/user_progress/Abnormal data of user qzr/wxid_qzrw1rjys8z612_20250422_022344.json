@@ -1,0 +1,20 @@
+{
+  "talker": "wxid_qzrw1rjys8z612",
+  "timestamp": "2025-04-22T02:23:44.050172",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team demonstrated active participation in planning and problem-solving discussions. They effectively coordinated to set meeting times, propose topics, and contribute ideas. The discussion focused on identifying key challenges and exploring potential solutions, showing a collaborative approach.",
+    "scores": {
+      "participation": 0.0,
+      "initiative": 0.0,
+      "problem_solving": 0.0,
+      "coordination": 0.0,
+      "responsiveness": 0.0
+    },
+    "mentions": [],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_qzrw1rjys8z612"
+}

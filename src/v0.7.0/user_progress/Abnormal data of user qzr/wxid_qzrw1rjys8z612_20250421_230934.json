@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_qzrw1rjys8z612",
+  "timestamp": "2025-04-21T23:09:34.054984",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户A在讨论中表现活跃，多次提出会议组织和时间调整，积极推动问题选定和分工，展现出较强的主动性和协调能力。对于问题解决，用户A能够从多个角度分析并提出解决方案，但部分内容略显重复，显示出一定的思考深度。",
+    "scores": {
+      "participation": 0.0,
+      "initiative": 0.0,
+      "problem_solving": 0.0,
+      "coordination": 0.0,
+      "responsiveness": 0.0
+    },
+    "participation": 5,
+    "initiative": 5,
+    "problem_solving": 4,
+    "coordination": 5,
+    "response": 4
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_qzrw1rjys8z612"
+}

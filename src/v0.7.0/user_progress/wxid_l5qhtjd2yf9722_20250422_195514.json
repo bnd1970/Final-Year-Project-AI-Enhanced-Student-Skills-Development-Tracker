@@ -1,0 +1,22 @@
+{
+  "talker": "wxid_l5qhtjd2yf9722",
+  "timestamp": "2025-04-22T19:55:14.078227",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The user actively contributed to organizing meetings and provided problem-solving suggestions. The conversation was mostly light-hearted but included constructive contributions.",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 5.0,
+      "problem_solving": 4.0,
+      "coordination": 4.0,
+      "responsiveness": 4.0
+    },
+    "mentions": [
+      "userA"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_l5qhtjd2yf9722"
+}

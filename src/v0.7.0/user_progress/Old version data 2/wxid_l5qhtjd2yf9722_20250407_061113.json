@@ -1,0 +1,21 @@
+{
+  "talker": "wxid_l5qhtjd2yf9722",
+  "timestamp": "2025-04-07T06:11:13.806217",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户在讨论中表现出一定的参与度和主动性，特别是在组织会议和分配任务方面有所贡献。他们愿意分享资源并提供解决方案，但回复较为简短，缺乏深入的问题解决或创新思维。",
+    "scores": {
+      "participation": 3,
+      "initiative": 2,
+      "problem_solving": 2,
+      "coordination": 4,
+      "responsiveness": 3
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.5.0"
+  },
+  "schema_version": "0.5.0"
+}

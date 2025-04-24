@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_l5qhtjd2yf9722",
+  "timestamp": "2025-04-22T18:31:44.251205",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team showed some initiative in discussing the topic and suggesting solutions. Participation was inconsistent, with some members being more engaged than others. Problem-solving abilities were evident as they addressed the challenges posed by the scenario. Coordination efforts were visible through attempts to organize meetings and task distribution. Responsiveness varied, with timely contributions from some and slower responses from others.",
+    "scores": {
+      "participation": 3.0,
+      "initiative": 4.0,
+      "problem_solving": 3.0,
+      "coordination": 4.0,
+      "responsiveness": 3.0
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_l5qhtjd2yf9722"
+}

@@ -1,0 +1,22 @@
+{
+  "talker": "wxid_h4ls9unolgok22",
+  "timestamp": "2025-04-21T23:19:54.359384",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户积极参与讨论，主动提出解决方案并提供细致检查，表现出良好的协调能力和问题解决能力。",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 3.0,
+      "problem_solving": 4.0,
+      "coordination": 3.0,
+      "responsiveness": 3.0
+    },
+    "mentions": [
+      "userA"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_h4ls9unolgok22"
+}

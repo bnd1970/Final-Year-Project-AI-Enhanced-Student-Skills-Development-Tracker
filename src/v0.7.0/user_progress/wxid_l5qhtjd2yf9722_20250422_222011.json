@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_l5qhtjd2yf9722",
+  "timestamp": "2025-04-22T22:20:11.416913",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team shows moderate participation and some initiative in organizing meetings and proposing solutions. Coordination is evident with attempts to organize tasks, but problem-solving depth could be improved. Responsiveness is generally timely.",
+    "scores": {
+      "participation": 3.0,
+      "initiative": 4.0,
+      "problem_solving": 2.0,
+      "coordination": 3.0,
+      "responsiveness": 3.0
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_l5qhtjd2yf9722"
+}

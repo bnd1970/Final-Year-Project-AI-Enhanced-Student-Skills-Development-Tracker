@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_h4ls9unolgok22",
+  "timestamp": "2025-04-22T22:19:16.333880",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户A在讨论中表现出了良好的协调能力,能够有效地组织资源来解决问题,并且对团队成员的需求有所回应。用户B则通过提供解决方案和检查问题状态,展现了较强的问题解决能力。",
+    "scores": {
+      "participation": 2.0,
+      "initiative": 3.0,
+      "problem_solving": 4.0,
+      "coordination": 5.0,
+      "responsiveness": 4.0
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_h4ls9unolgok22"
+}

@@ -1,0 +1,22 @@
+{
+  "talker": "wxid_h4ls9unolgok22",
+  "timestamp": "2025-04-22T14:07:21.324573",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "ç¨æ·ææ¶åä¸è®¨è®ºï¼ä½ç¼ºä¹è¶³å¤çä¸»å¨æ§ãè½ç¶æä¾äºä¸äºè§£å³æ¹æ¡ï¼ä½é®é¢æè¿°ä¸å¤è¯¦ç»ãè½å¤åè°ä½¿ç¨çµèï¼ä½ç»æè®¨è®ºå¯è½å¿½ç¥äºå¶ä»äººçæè§ã",
+    "scores": {
+      "participation": 3.0,
+      "initiative": 4.0,
+      "problem_solving": 3.0,
+      "coordination": 4.0,
+      "responsiveness": 4.0
+    },
+    "mentions": [
+      "userA"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_h4ls9unolgok22"
+}

@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_22uplvnzic2m22",
+  "timestamp": "2025-04-20T18:06:40.162146",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户A在讨论中表现出较高的参与度和主动性，多次提出问题并提供解决方案。用户B则表现出较好的协调能力和响应时效，但在主动性方面稍逊。",
+    "scores": {
+      "participation": 5.0,
+      "initiative": 5.0,
+      "problem_solving": 5.0,
+      "coordination": 5.0,
+      "responsiveness": 4.0
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.5.0"
+  },
+  "schema_version": "0.5.0",
+  "group": "cleaned",
+  "original_id": "wxid_22uplvnzic2m22"
+}

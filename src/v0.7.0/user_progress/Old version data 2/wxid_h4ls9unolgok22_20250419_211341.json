@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_h4ls9unolgok22",
+  "timestamp": "2025-04-19T21:13:41.212753",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户A在消息2和4、5、6提供了建设性建议，但回复较为简短；用户B提到手机有问题但未详细说明，用户A建议使用电脑解决问题。整体参与度一般，有一定的主动性和协调能力。",
+    "scores": {
+      "participation": 3.0,
+      "initiative": 4.0,
+      "problem_solving": 4.0,
+      "coordination": 2.0,
+      "responsiveness": 3.0
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.5.0"
+  },
+  "schema_version": "0.5.0",
+  "group": "cleaned",
+  "original_id": "wxid_h4ls9unolgok22"
+}

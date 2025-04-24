@@ -1,0 +1,23 @@
+{
+  "talker": "wxid_h4ls9unolgok22",
+  "timestamp": "2025-04-21T22:42:45.664532",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户A和用户B在讨论中积极回应问题，并提供了解决方案的建议。用户A提出了合时间的问题，用户B指出了具体问题并给予了解决方法。虽然有时存在对问题细节不够深入的情况，但整体表现良好。",
+    "scores": {
+      "participation": 4.0,
+      "initiative": 3.5,
+      "problem_solving": 3.0,
+      "coordination": 4.0,
+      "responsiveness": 5.0
+    },
+    "mentions": [
+      "userA",
+      "userB"
+    ],
+    "version": "0.7.0"
+  },
+  "schema_version": "0.7.0",
+  "group": "cleaned",
+  "original_id": "wxid_h4ls9unolgok22"
+}

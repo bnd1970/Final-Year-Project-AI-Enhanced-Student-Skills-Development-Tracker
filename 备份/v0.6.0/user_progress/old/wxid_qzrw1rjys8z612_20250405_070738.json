@@ -1,0 +1,16 @@
+{
+  "talker": "wxid_qzrw1rjys8z612",
+  "timestamp": "2025-04-05T07:07:38.618630",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "The team demonstrated active participation in discussions, with multiple suggestions for meeting times and topics. They effectively coordinated to finalize a meeting time and started working on problem identification. However, there were some delays in response times and slight gaps in coordination.",
+    "scores": {
+      "participation": 4,
+      "initiative": 4.5,
+      "problem_solving": 4,
+      "coordination": 3.5,
+      "responsiveness": 4
+    }
+  },
+  "schema_version": "0.5.0"
+}
