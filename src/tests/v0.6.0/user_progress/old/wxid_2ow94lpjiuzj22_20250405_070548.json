@@ -1,0 +1,20 @@
+{
+  "talker": "wxid_2ow94lpjiuzj22",
+  "timestamp": "2025-04-05T07:05:48.408304",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "用户A在讨论中表现出一定的主动性和参与度，但在某些情况下回应较为简短。问题解决能力较强，能够提出具体建议并协调团队事务。",
+    "scores": {
+      "participation": 3,
+      "initiative": 4,
+      "problem_solving": 4,
+      "coordination": 4,
+      "responsiveness": 2
+    },
+    "mentions": [
+      "userA"
+    ],
+    "version": "0.5.0"
+  },
+  "schema_version": "0.5.0"
+}

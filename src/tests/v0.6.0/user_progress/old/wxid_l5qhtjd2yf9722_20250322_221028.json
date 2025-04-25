@@ -1,0 +1,17 @@
+{
+  "talker": "wxid_l5qhtjd2yf9722",
+  "timestamp": "2025-03-22T22:10:28.012547",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "聊天记录中没有详细的反馈和改进建议。虽然有少量主动提议，如会议安排，但缺乏深入分析。",
+    "scores": {
+      "participation": 3,
+      "initiative": 4,
+      "problem_solving": 3,
+      "coordination": 3,
+      "responsiveness": 3
+    },
+    "version": "0.2.0"
+  },
+  "schema_version": "0.2.0"
+}

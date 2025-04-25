@@ -1,0 +1,17 @@
+{
+  "talker": "wxid_22uplvnzic2m22",
+  "timestamp": "2025-03-22T22:08:03.707384",
+  "messages_count": 0,
+  "analysis": {
+    "feedback": "该团队成员积极参与讨论，主动提出解决方案，并协调会议时间，但在具体问题解决方面和响应时效性上还有提升空间。",
+    "scores": {
+      "participation": 4,
+      "initiative": 5,
+      "problem_solving": 4,
+      "coordination": 4,
+      "responsiveness": 3
+    },
+    "version": "0.2.0"
+  },
+  "schema_version": "0.2.0"
+}
